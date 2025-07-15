@@ -14,12 +14,11 @@
 
 ## 📁 Portfolio Projects
 
-### 📌 [Sales Dashboard in Power BI](https://github.com/your-username/sales-powerbi-dashboard)
-> Built an end-to-end sales dashboard using Power BI with KPI Cards, Time Intelligence, YoY comparison, and slicers for interaction.
-
 ### 📌 [Customer Service Dashboard](https://github.com/your-username/customer-service-bi)
 > Multi-page report analyzing SLA compliance, resolution time, and agent performance with a custom data model of over 5,000 rows.
 
+### 📌 [Sales Dashboard in Power BI](https://github.com/elaalm2/Sales-dashboard)
+> 📊 Developed a dynamic Sales Dashboard in Power BI—featuring advanced time intelligence, interactive KPI cards, and multi-level insights across categories, regions, and yearly performance trends.
 
 ## 📬 Connect with Me
 - 📧 mohamed.abdelhakeem20@gmail.com
