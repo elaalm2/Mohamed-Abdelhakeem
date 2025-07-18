@@ -14,7 +14,7 @@
 
 ## 📁 Portfolio Projects
 
-### 📌 [Customer Service Dashboard](https://github.com/elaalm2/Customer-Service-Dashboard)
+### 📌 [Customer Service Dashboard in Power BI](https://github.com/elaalm2/Customer-Service-Dashboard)
 > 📊 Interactive dashboard analyzing customer support KPIs like SLA, CSAT, and resolution time.
 
 ### 📌 [Sales Dashboard in Power BI](https://github.com/elaalm2/Sales-dashboard)
