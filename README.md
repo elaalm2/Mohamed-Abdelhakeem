@@ -14,8 +14,8 @@
 
 ## 📁 Portfolio Projects
 
-### 📌 [Customer Service Dashboard](https://github.com/your-username/customer-service-bi)
-> Multi-page report analyzing SLA compliance, resolution time, and agent performance with a custom data model of over 5,000 rows.
+### 📌 [Customer Service Dashboard](https://github.com/elaalm2/Customer-Service-Dashboard)
+> Interactive dashboard analyzing customer support KPIs like SLA, CSAT, and resolution time.
 
 ### 📌 [Sales Dashboard in Power BI](https://github.com/elaalm2/Sales-dashboard)
 > 📊 Developed a dynamic Sales Dashboard in Power BI—featuring advanced time intelligence, interactive KPI cards, and multi-level insights across categories, regions, and yearly performance trends.
